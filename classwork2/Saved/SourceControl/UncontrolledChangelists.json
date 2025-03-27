@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/plane_thing.umap",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/BP_plane.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/BP_plane.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/IA_movement.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/IMC_Movement.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/M_glass.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/M_Metal_red.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/M_Metal_silver.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/textures/stars_2.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/textures/stars_1.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/M_sapce.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/textures/Crab_Nebula.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/player/BP_plane.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/player/BP_playership.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/projectiles/BP_player-projectile.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/player/T_texture_playership.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/player/M_playership.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/IA_combat.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/IMC_combat.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/M_playerprojectile.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/bounderies/BP_walls.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/Enemies/BP_enemy1.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/pickups/BP_poweruptriple.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/Enemies/BP_enemy2.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/Enemies/BP_Spawner.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/projectiles/PSE_Player-shot.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/UI/BP_HUD.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/music/572947__jibey__rock-music.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/core/IA_combat.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/core/IA_movement.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/core/IMC_combat.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/core/IMC_Movement.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/core/GM_Endless.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/L_Endless.umap",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/projectiles/BP_Enemy-projectile.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/glass.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Metal_red.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Metal_silver.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/glass.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/Metal_red.uasset",
+				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Materials/Metal_silver.uasset"
+			]
+		}
+	]
+}
