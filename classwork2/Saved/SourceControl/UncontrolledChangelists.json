@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/L_Endless.umap",
+				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/player/BP_playership.uasset",
+				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/Enemies/BP_enemy1.uasset",
+				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/Enemies/BP_enemy2.uasset",
+				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Materials/M_Metal_red.uasset",
+				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/projectiles/BP_player-projectile.uasset",
+				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Materials/M_Metal_silver.uasset",
 				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/plane_thing.umap",
 				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/BP_plane.uasset",
 				"C:/Users/14347/Documents/Unreal Projects/classwork2/Content/Blueprints/BP_plane.uasset",
