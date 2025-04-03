@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\14347\\documents\\github\\uni-transfer\\classwork2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\classwork2\\module.classwork2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\14347\\documents\\github\\uni-transfer\\classwork2\\intermediate\\build\\win64\\x64\\classwork2\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\14347\\documents\\github\\uni-transfer\\classwork2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\classwork2\\definitions.classwork2.h",
+            "c:\\users\\14347\\documents\\github\\uni-transfer\\classwork2\\intermediate\\source\\classwork2.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

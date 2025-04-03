@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/14347/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Materials/M_Metal_silver.uasset",
+				"C:/Users/14347/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/Enemies/BP_enemy2.uasset",
+				"C:/Users/14347/Documents/GitHub/UNI-TRANSFER/classwork2/Content/levels/L_EndlessMode.umap",
+				"C:/Users/14347/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/player/BP_playership.uasset",
+				"C:/Users/14347/Documents/GitHub/UNI-TRANSFER/classwork2/Content/UI/BP_HUD.uasset",
 				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/L_Endless.umap",
 				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/player/BP_playership.uasset",
 				"C:/Users/Cole's Computer/Documents/GitHub/UNI-TRANSFER/classwork2/Content/Blueprints/Enemies/BP_enemy1.uasset",

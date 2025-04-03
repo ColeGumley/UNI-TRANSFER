@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\14347\\Documents\\GitHub\\UNI-TRANSFER\\classwork2\\Intermediate\\Source\\classwork2.Build.cs",
+		"C:\\Users\\14347\\Documents\\GitHub\\UNI-TRANSFER\\classwork2\\Intermediate\\Source\\classwork2.Target.cs",
+		"C:\\Users\\14347\\Documents\\GitHub\\UNI-TRANSFER\\classwork2\\Intermediate\\Source\\classwork2Client.Target.cs",
+		"C:\\Users\\14347\\Documents\\GitHub\\UNI-TRANSFER\\classwork2\\Intermediate\\Source\\classwork2Editor.Target.cs",
+		"C:\\Users\\14347\\Documents\\GitHub\\UNI-TRANSFER\\classwork2\\Intermediate\\Source\\classwork2Server.Target.cs"
+	],
+	"EngineVersion": "5.5.2"
+}
