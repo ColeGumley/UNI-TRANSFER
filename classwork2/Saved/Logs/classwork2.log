@@ -6727,3 +6727,23 @@ Sampler Limit: 32
 [2025.04.27-06.40.14:396][537]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2025.04.27-06.40.16:488][537]LogExit: Editor shut down
 [2025.04.27-06.40.16:508][537]LogExit: Transaction tracking system shut down
+[2025.04.27-06.40.23:819][537]LogExit: Object subsystem successfully closed.
+[2025.04.27-06.40.23:885][537]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.04.27-06.40.27:050][537]LogMemoryProfiler: Shutdown
+[2025.04.27-06.40.27:051][537]LogNetworkingProfiler: Shutdown
+[2025.04.27-06.40.27:051][537]LoadingProfiler: Shutdown
+[2025.04.27-06.40.27:055][537]LogTimingProfiler: Shutdown
+[2025.04.27-06.40.32:603][537]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.04.27-06.40.32:687][537]RenderDocPlugin: plugin has been unloaded.
+[2025.04.27-06.40.32:714][537]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.04.27-06.40.32:734][537]LogNFORDenoise: NFORDenoise function shutting down
+[2025.04.27-06.40.33:009][537]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.04.27-06.40.33:009][537]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6F1E7405-46D1-3C80-B2A9-E4BCC1C98F37%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=c0d77d83442883905dee5ab06f87df64%7C6ed71ef4a72641b0b1d23bc7ac2bfd8e%7C12aaa63f-6ae0-4538-83ac-97fdf1ac6ad4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.04.27-06.40.34:382][537]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.04.27-06.40.34:499][537]LogXGEController: Cleaning working directory: C:/Users/Cole's Computer/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.04.27-06.40.34:848][537]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.04.27-06.40.34:848][537]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.04.27-06.40.34:896][537]LogPakFile: Destroying PakPlatformFile
+[2025.04.27-06.40.35:964][537]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.27-06.40.36:114][537]LogExit: Exiting.
+[2025.04.27-06.40.36:198][537]Log file closed, 04/27/25 16:40:36
